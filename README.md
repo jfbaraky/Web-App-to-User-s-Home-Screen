@@ -8,7 +8,6 @@ First you need:
 
 * [Web Server for Chrome](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 * Chrome 52 or above
-* Node.js with npm
 
 After you clone this code, open the Web Server and set the folder to the root folder. You will recieve the Web Server URL that you will need to see the updates, but first, check the box "Automatically show index.html" and don't close this window.
 
