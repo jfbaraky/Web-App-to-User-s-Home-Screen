@@ -13,7 +13,7 @@ After you clone this code, open the Web Server and set the folder to the root fo
 
 The code used for the test was the Paul Lewis's [Firewoks](https://github.com/googlecodelabs/add-to-home-screen/archive/master.zip), so if you click on the screen, fireworks you appear, but the shortcut only works in mobile version.
 
-You can check the [Deployed Version](https://fireworks-4cf73.firebaseapp.com) in your mobile or you can connect it to your desktop by a USB, use the [Chrome's Remote Debbuging](chrome://inspect/#devices) on a diferent tab and allowing the allow USB debugging on your device.
+You can check the [Deployed Version](https://fireworks-4cf73.firebaseapp.com) in your mobile or you can connect it to your desktop by a USB, use the Chrome's Remote Debbuging (chrome://inspect/#devices) on a diferent tab and allowing the allow USB debugging on your device.
 
 ## Built with
 
